@@ -1103,7 +1103,7 @@ section
 	opacity:1;
 }
 .product_image img:hover{
-  opacity:0.3;
+  opacity:0.5;
   -webkit-transition: .5s all ease;
   -o-transition: .5s all ease;
   transition: .5s all ease;
