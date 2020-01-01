@@ -1104,9 +1104,9 @@ section
 }
 .product_image img:hover{
   opacity:0.3;
-  -webkit-transition: .3s all ease;
-  -o-transition: .3s all ease;
-  transition: .3s all ease;
+  -webkit-transition: .5s all ease;
+  -o-transition: .5s all ease;
+  transition: .5s all ease;
   cursor: pointer;
 }
 .product_content
